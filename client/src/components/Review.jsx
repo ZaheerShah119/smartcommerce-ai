@@ -2,10 +2,10 @@ import { FaQuoteLeft, FaCheckCircle } from "react-icons/fa";
 
 export default function Review() {
   const verifiedReviewsList = [
-    { name: "Ali Muhammad", initial: "A", review: "Outstanding premium quality watches! Purchased a Seiko Prospex automatic, delivery inside Lahore took just 24 hours. Serial verification checked out perfect.", stars: 5 },
-    { name: "Ahmed Raza", initial: "A", review: "Highly recommended store. The customer service representative guided me properly on the phone regarding laptop specs before dispatching my Asus ROG machine. 10/10.", stars: 5 },
-    { name: "Sara Khan", initial: "S", review: "Genuine high-end electronics shop. The package arrived with official warranty cards, fully sealed product, and exceptionally secured double bubble wrapping.", stars: 5 },
-    { name: "Usman Sheikh", initial: "U", review: "Superb experience overall. Transparent pricing structures and legitimate discounts compared to retail markets. Will order again definitely.", stars: 5 }
+    { name: "Zohaib Asif", initial: "A", review: "Outstanding premium quality watches! Purchased a Seiko Prospex automatic, delivery inside Lahore took just 24 hours. Serial verification checked out perfect.", stars: 5 },
+    { name: "Hassaan Saeed", initial: "A", review: "Highly recommended store. The customer service representative guided me properly on the phone regarding laptop specs before dispatching my Asus ROG machine. 10/10.", stars: 5 },
+    { name: "Muhammmad Ahmad", initial: "S", review: "Genuine high-end electronics shop. The package arrived with official warranty cards, fully sealed product, and exceptionally secured double bubble wrapping.", stars: 5 },
+    { name: "Arham Ali", initial: "U", review: "Superb experience overall. Transparent pricing structures and legitimate discounts compared to retail markets. Will order again definitely.", stars: 5 }
   ];
 
   return (

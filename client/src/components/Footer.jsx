@@ -30,10 +30,10 @@ export default function Footer() {
           <h2 className="footer-brand-logo">SMARTCOMMERCE</h2>
           <p className="brand-pitch-text">Pakistan's absolute digital benchmark for authentic luxury watches and performance laptop computers. Delivering unmatched retail perfection.</p>
           <div className="footer-contact-details-list">
-            <p><FaMapMarkerAlt /> Rafiq Plaza, Main Commercial Hub, Pakistan</p>
+            <p><FaMapMarkerAlt /> Freed Town Sahiwal, Main Commercial Hub, Pakistan</p>
             <p><FaPhoneAlt /> +92 (300) 0000000</p>
             <p><FaEnvelope /> syedzaheershah@smartcommerce.com</p>
-            <p><FaClock /> Mon - Sat: 11:00 AM - 9:00 PM</p>
+            
           </div>
         </div>
 

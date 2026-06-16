@@ -3,14 +3,14 @@ import { useState, useEffect } from "react";
 export default function Hero() {
   const slides = [
     {
-      title: "SWISS HOROLOGY & LUXURY TIMING",
-      subtitle: "Discover Elegant Seiko, Tissot & Rado Masterpieces",
+      title: "SMART WATCH COLLECTION",
+      subtitle: "Explore Premium, Elegant and Stylish Watches",
       btnText: "EXPLORE WATCHES",
       bgImage: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1600&q=80",
     },
     {
-      title: "NEXT-GEN COMPUTING STATIONS",
-      subtitle: "Premium MacBook Pro, Dell XPS & Ultimate Gaming Engines",
+      title: "PREMIUM TECH & LAPTOPS",
+      subtitle: "Premium Laptops, Gadgets & Smart Tech Accessories",
       btnText: "SHOP LAPTOPS",
       bgImage: "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=1600&q=80",
     }
